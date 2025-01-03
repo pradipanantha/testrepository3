@@ -3,3 +3,4 @@ Line 2 commit 3
 Line 3 Commit 4
 Line 5 commit 5
 Line 5-2 commit 6
+line 6 commit 7
